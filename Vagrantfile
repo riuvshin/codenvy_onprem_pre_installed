@@ -1,5 +1,5 @@
 box      = 'codenvy_onprem_3.10.3_preinstalled'
-url      = 'https://install.codenvycorp.com/codenvy_onprem_3.10_preinstalled.box'
+url      = 'https://install.codenvycorp.com/codenvy_onprem_3.10.3_preinstalled.box'
 ram      = '3072'
 hostname = 'onprem'
 domain   = 'codenvy.com'
